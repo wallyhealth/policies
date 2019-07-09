@@ -35,7 +35,7 @@ Each policy is included as its own markdown file in case you want to cherry-pick
 
 ### How to build the docs
 
-- `gem install bundler --user-install`
+- `gem install bundler sass --user-install`
 - `bundle install`
 
 *Commands*
