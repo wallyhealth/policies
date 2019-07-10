@@ -20,12 +20,12 @@ Wally implements policies and procedures to maintain compliance and integrity of
 3. Wally employees may request changes to policies using the following process:
   1. The Wally employee initiates a policy change request by creating a ticket in the QMS. The change request may optionally include a GitHub pull request from a separate branch or repository containing the desired changes.
   2. The Security Officer or the Privacy Officer is assigned to review the policy change request.
-  3. Once the review is completed, the Security Officer or Privacy Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
-  4. If the review is approved, the Security Officer or Privacy Officer then marks the Issue as Done, adding any pertinent notes required.
+  3. Once the review is completed, the Security Officer or Privacy Officer approves or rejects the ticket. If the ticket is rejected, it goes back for further review and documentation.
+  4. If the review is approved, the Security Officer or Privacy Officer then marks the ticket as Done, adding any pertinent notes required.
   5. If the policy change requires technical modifications to production systems, those changes are carried out by authorized personnel using Wally's [change management process (§9.4)](#9.4-changing-existing-systems).
 4. All policies are made accessible to all Wally workforce members. The Security Officer communicates policy changes to all employees via email. These emails include a high-level description of the policy change using terminology appropriate for the target audience.
 5. All policies, and associated documentation, are retained for 6 years from the date of its creation or the date when it last was in effect, whichever is later. Version history of all Wally policies is done via GitHub.
-6. The policies and information security policies are reviewed and audited annually, or after significant changes occur to Wally's organizational environment. Issues that come up as part of this process are reviewed by Wally management to assure all risks and potential gaps are mitigated and/or fully addressed. The process for reviewing polices is outlined below:
+6. The policies and information security policies are reviewed and audited annually, or after significant changes occur to Wally's organizational environment. Tickets that come up as part of this process are reviewed by Wally management to assure all risks and potential gaps are mitigated and/or fully addressed. The process for reviewing polices is outlined below:
   1. The Security Officer initiates the policy review by creating a ticket in the QMS.
   2. The Security Officer or the Privacy Officer is assigned to review the current Wally policies.
   3. If changes are made, the above process is used. All changes are documented in the ticket.
