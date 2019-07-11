@@ -1,9 +1,5 @@
 # Wally HIPAA Compliance Policies
 
-### License
-
-All policies are licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
-
 ### Policy Index
 
 Each policy is included as its own markdown file in case you want to cherry-pick specific policies. If you currently have no policies in place, we encourage you to consider utilizing all compliance policies.
@@ -43,3 +39,11 @@ Each policy is included as its own markdown file in case you want to cherry-pick
 - `rake sass` will compile any changes made to `assets/css/styles.scss`
 - `rake build` will build the static site into the `build` directory
 - `rake serve_static` will create a simple HTTP server for the `build` directory
+
+### License
+
+All policies are licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
+
+### Attribution
+
+These policies were originally derived from [Datica HIPAA Compliance Policies](https://github.com/catalyzeio/policies).
