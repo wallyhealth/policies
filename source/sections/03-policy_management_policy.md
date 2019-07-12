@@ -31,5 +31,5 @@ Wally implements policies and procedures to maintain compliance and integrity of
   3. If changes are made, the above process is used. All changes are documented in the ticket.
   4. Once the review is completed, the Security Officer or Privacy Officer approves or rejects the ticket. If the ticket is rejected, it goes back for further review and documentation.
   5. If the review is approved, the Security Officer or Privacy Officer then marks the ticket as Done, adding any pertinent notes required.
-
+  6. Policy review is monitored on a quarterly basis using the QMS reporting to assess compliance with above policy.
 Additional documentation related to maintenance of policies is outlined in [§5.3.1](#5.3-security-officer).

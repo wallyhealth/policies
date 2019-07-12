@@ -40,6 +40,7 @@ This policy establishes the scope, objectives, and procedures of Wally's informa
   3. All findings are captured in an approved document that is linked to the ticket.
   4. Once the Risk Management Procedures are complete, along with corresponding documentation, the Security Officer approves or rejects the ticket. If the ticket is rejected, it goes back for further review and documentation.
   5. If the review is approved, the Security Officer then marks the ticket as Done, adding any pertinent notes required.
+9. The Risk Management Procedure is monitored on a quarterly basis using the QMS reporting to assess compliance with above policy.
 
 ## 4.3 Risk Management Procedures
 

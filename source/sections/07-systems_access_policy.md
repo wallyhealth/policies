@@ -53,6 +53,7 @@ Access to Wally systems and applications is limited for all users, including but
    3. If user access is found during review that is not in line with the least privilege principle, the process below is used to modify user access and notify the user of access changes.
    4. Once the review is completed, the Security Officer approves or rejects the ticket. If the ticket is rejected, it goes back for further review and documentation.
    5. If the review is approved, the Security Officer then marks the ticket as Done, adding any pertinent notes required.
+   6. Review of user access is monitored on a quarterly basis using the QMS reporting to assess compliance with above policy.
 5. Any Wally workforce member can request change of access using the process outlined in [§7.2 paragraph 1](#7.2-access-establishment-and-modification).
 6. Access to production systems is controlled using centralized user management and authentication.
 7. Temporary accounts are not used unless absolutely necessary for business purposes.
@@ -122,9 +123,7 @@ All workstations at Wally are company owned, and all are laptop Apple products r
 1. Wally production systems are not accessible directly over wireless channels.
 2. Wireless access is disabled on all production systems.
 3. When accessing production systems via remote wireless connections, the same system access policies and procedures apply to wireless as all other connections, including wired.
-4. Wireless networks managed within Wally non-production facilities (offices, etc.) are secured with the following configurations:
-   * All data in transit over wireless is encrypted;
-   * Passwords are rotated on a regular basis, presently quarterly. This process is managed by the Security Officer.
+4. All data in transit over wireless networks managed within Wally non-production facilities (offices, etc.) is encrypted.
 
 ## 7.10 Employee Termination Procedures
 
