@@ -1,10 +1,10 @@
 # 22. Key Definitions
 
-* *Application*: An application hosted by Datica, either maintained and created by Datica, or maintained and created by a Customer or Partner.
+* *Application*: An application created, maintained and hosted by Wally.
 
-* *Application Level*: Controls and security associated with an Application. In the case of PaaS Customers, Datica does not have access to and cannot assure compliance with security standards and policies at the Application Level.
+* *Application Level*: Controls and security associated with an Application.
 
-* *Audit*: Internal process of reviewing information system access and activity (e.g., log-ins, file accesses, and security incidents). An audit may be done as a periodic event, as a result of a patient complaint, or suspicion of employee wrongdoing.
+* *Audit*: Internal process of reviewing information system access and activity (e.g., logins, file accesses, and security incidents). An audit may be done as a periodic event, as a result of a patient complaint, or suspicion of employee wrongdoing.
 
 * *Audit Controls*: Technical mechanisms that track and record computer/system activities.
 
@@ -13,8 +13,6 @@
 * *Access*: Means the ability or the means necessary to read, write, modify, or communicate data/ information or otherwise use any system resource.
 
 * *Backup*: The process of making an electronic copy of data stored in a computer system. This can either be complete, meaning all data and programs, or incremental, including just the data that changed from the previous backup.
-
-* *Backup Service*: A logging service for unifying system and application logs, encrypting them, and providing a dashboard for them. Offered with all Datica Add-ons and as an option for PaaS Customers.
 
 * *Breach*: Means the acquisition, access, use, or disclosure of protected health information (PHI) in a manner not permitted under the Privacy Rule which compromises the security or privacy of the PHI. For purpose of this definition, "compromises the security or privacy of the PHI" means poses a significant risk of financial, reputational, or other harm to the individual. A use or disclosure of PHI that does not include the identifiers listed at §164.514(e)(2), limited data set, date of birth, and zip code does not compromise the security or privacy of the PHI. Breach excludes:
 
@@ -30,17 +28,15 @@
 
 * *Disaster Recovery*: The ability to recover a system and data after being made unavailable.
 
-* *Disaster Recovery Service*: A disaster recovery service for disaster recovery in the case of system unavailability. This includes both the technical and the non-technical (process) required to effectively stand up an application after an outage. Offered with all Datica Add-ons and as an option for PaaS Customers.
-
 * *Disclosure*: Disclosure means the release, transfer, provision of, access to, or divulging in any other manner of information outside the entity holding the information.
 
-* *Customers*: Contractually bound users of Datica Platform.
+* *Customers*: Users of Wally platform.
 
 * *Electronic Protected Health Information (ePHI)*: Any individually identifiable health information protected by HIPAA that is transmitted by, processed in some way, or stored in electronic media.
 
 * *Environment*: The overall technical environment, including all servers, network devices, and applications.
 
-* *Event*: An event is defined as an occurrence that does not constitute a serious adverse effect on Datica, its operations, or its Customers, though it may be less than optimal. Examples of events include, but are not limited to:
+* *Event*: An event is defined as an occurrence that does not constitute a serious adverse effect on Wally, its operations, or its Customers, though it may be less than optimal. Examples of events include, but are not limited to:
   * A hard drive malfunction that requires replacement;
   *  Systems become unavailable due to power outage that is non-hostile in nature, with redundancy to assure ongoing availability of data;
   * Accidental lockout of an account due to incorrectly entering a password multiple times.
@@ -56,16 +52,12 @@
   * The antivirus software alerts when it detects that a host is infected with a worm;
   * Users complain of slow access to hosts on the Internet;
   * The system administrator sees a filename with unusual characteristics;
-  * Automated alerts of activity from log monitors like OSSEC;
-  * An alert from OSSEC about file system integrity issues.
+  * Automated alerts of activity from log monitors;
+  * An alert about file system integrity issues.
 
 * *Intrusion Detection System (IDS)*: A software tool use to automatically detect and notify in the event of possible unauthorized network and/or system access.
 
-* *IDS Service*: An Intrusion Detection Service for providing IDS notification to customers in the case of suspicious activity. Offered with all Datica Add-ons and as an option for PaaS Customers.
-
 * *Law Enforcement Official*: Any officer or employee of an agency or authority of the United States, a State, a territory, a political subdivision of a State or territory, or an Indian tribe, who is empowered by law to investigate or conduct an official inquiry into a potential violation of law; or prosecute or otherwise conduct a criminal, civil, or administrative proceeding arising from an alleged violation of law.
-
-* *Logging Service*: A logging service for unifying system and application logs, encrypting them, and providing a dashboard for them. Offered with all Datica Add-ons and as an option for PaaS Customers.
 
 * *Messaging*: API-based services to deliver and receive SMS messages.
 
@@ -73,11 +65,11 @@
 
 * *Off-Site*: For the purpose of storage of Backup media, off-site is defined as any location separate from the building in which the backup was created. It must be physically separate from the creating site.
 
-* *Organization*: For the purposes of this policy, the term "organization" shall mean Datica.
+* *Organization*: For the purposes of this policy, the term "organization" shall mean Wally.
 
-* *Partner*: Contractual bound 3rd party vendor with integration with the Datica Platform. May offer Add-on services.
+* *Partner*: Contractual bound 3rd party vendor with integration with the Wally Platform. May offer Add-on services.
 
-* *Platform*: The overall technical environment of Datica.
+* *Platform*: The overall technical environment of Wally.
 
 * *Protected Health Information (PHI)*: Individually identifiable health information that is created by or received by the organization, including demographic information, that identifies an individual, or provides a reasonable basis to believe the information can be used to identify an individual, and relates to:
   * Past, present or future physical or mental health or condition of an individual.
@@ -116,19 +108,19 @@
 * *Security Incident* (or just Incident): A security incident is an occurrence that exercises a significant adverse effect on people, process, technology, or data. Security incidents include, but are not limited to:
   * A system or network breach accomplished by an internal or external entity; this breach can be inadvertent or malicious;
   * Unauthorized disclosure;
-  * Unauthorized change or destruction of ePHI (i.e. delete dictation, data alterations not following Datica's procedures);
+  * Unauthorized change or destruction of ePHI (i.e. delete dictation, data alterations not following Wally's procedures);
   * Denial of service not attributable to identifiable physical, environmental, human or technology causes;
   * Disaster or enacted threat to business continuity;
   * Information Security Incident: A violation or imminent threat of violation of information security policies, acceptable use policies, or standard security practices. Examples of information security incidents may include, but are not limited to, the following:
-  * Denial of Service: An attack that prevents or impairs the authorized use of networks, systems, or applications by exhausting resources;
-  * Malicious Code: A virus, worm, Trojan horse, or other code-based malicious entity that infects a host;
-  * Unauthorized Access/System Hijacking: A person gains logical or physical access without permission to a network, system, application, data, or other resource. Hijacking occurs when an attacker takes control of network devices or workstations;
-  * Inappropriate Usage: A person violates acceptable computing use policies;
-  * Other examples of observable information security incidents may include, but are not limited to:
-    * Use of another person's individual password and/or account to login to a system;
-    * Failure to protect passwords and/or access codes (e.g., posting passwords on equipment);
-    * Installation of unauthorized software;
-    * Terminated workforce member accessing applications, systems, or network.
+    * Denial of Service: An attack that prevents or impairs the authorized use of networks, systems, or applications by exhausting resources;
+    * Malicious Code: A virus, worm, Trojan horse, or other code-based malicious entity that infects a host;
+    * Unauthorized Access/System Hijacking: A person gains logical or physical access without permission to a network, system, application, data, or other resource. Hijacking occurs when an attacker takes control of network devices or workstations;
+    * Inappropriate Usage: A person violates acceptable computing use policies;
+    * Other examples of observable information security incidents may include, but are not limited to:
+        * Use of another person's individual password and/or account to login to a system;
+        * Failure to protect passwords and/or access codes (e.g., posting passwords on equipment);
+        * Installation of unauthorized software;
+        * Terminated workforce member accessing applications, systems, or network.
 
 * *Threat*: The potential for a particular threat-source to successfully exercise a particular vulnerability. Threats are commonly categorized as:
   * Environmental - external fires, HVAC failure/temperature inadequacy, water pipe burst, power failure/fluctuation, etc.
@@ -151,10 +143,10 @@
   5. Paper, film, or other hard copy media have been shredded or destroyed such that the PHI cannot be read or otherwise cannot be reconstructed. Redaction is specifically excluded as a means of data destruction.
   6. Electronic media have been cleared, purged, or destroyed consistent with NIST Special Publications 800-88, Guidelines for Media Sanitization, such that the PHI cannot be retrieved.
 
-* *Vendors*: Persons from other organizations marketing or selling products or services, or providing services to Datica.
+* *Vendors*: Persons from other organizations marketing or selling products or services, or providing services to Wally.
 
 * *Vulnerability*: A weakness or flaw in an information system that can be accidentally triggered or intentionally exploited by a threat and lead to a compromise in the integrity of that system, i.e., resulting in a security breach or violation of policy.
 
-* *Workstation*: An electronic computing device, such as a laptop or desktop computer, or any other device that performs similar functions, used to create, receive, maintain, or transmit ePHI. Workstation devices may include, but are not limited to: laptop or desktop computers, personal digital assistants (PDAs), tablet PCs, and other handheld devices. For the purposes of this policy, "workstation" also includes the combination of hardware, operating system, application software, and network connection.
+* *Workstation*: An electronic computing device, such as a laptop or desktop computer, or any other device that performs similar functions, used to create, receive, maintain, or transmit ePHI. Workstation devices may include, but are not limited to: laptop or desktop computers, tablet PCs, and other handheld devices. For the purposes of this policy, "workstation" also includes the combination of hardware, operating system, application software, and network connection.
 
 * *Workforce*: Means employees, volunteers, trainees, and other persons whose conduct, in the performance of work for a covered entity, is under the direct control of such entity, whether or not they are paid by the covered entity.
