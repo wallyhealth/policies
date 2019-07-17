@@ -86,7 +86,7 @@ Access to Wally systems and applications is limited for all users, including but
 ## 7.5 Person or Entity Authentication
 
 1. Each workforce member has and uses a unique user ID and password that identifies him/her as the user of the information system.
-2. Each Customer and Partner has and uses a unique user ID and password that identifies him/her as the user of the information system.
+2. Each Customer has and uses a unique user ID and password that identifies him/her as the user of the information system.
 3. All Customer support desk interactions must be verified before Wally support personnel will satisfy any request having information security implications.
    * Support issues submitted via Wally's dashboard require that users authenticate with their Wally account before submitting support tickets.
    
@@ -151,7 +151,7 @@ Wally does not use paper records for any sensitive information. Use of paper for
    * Passwords that must be stored in non-hashed format must be encrypted at rest pursuant to the requirements in [§17.8](#17.8-production-data-security).
    * Transmitted passwords must be encrypted in flight pursuant to the requirements in [§17.9](#17.9-transmission-security).
 5. Passwords are inactivated immediately upon an employee's termination (refer to the [Employee Termination Procedures in §7.10](#7.10-employee-termination-procedures)).
-6. All default system, application, and Partner passwords are changed before deployment to production.
+6. All default system and application passwords are changed before deployment to production.
 7. Upon initial login, users must change any passwords that were automatically generated for them.
 8. Password change methods must use a confirmation method to correct for user input errors.
 9. All passwords used in configuration scripts are secured and encrypted.

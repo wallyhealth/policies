@@ -68,11 +68,11 @@ This policy applies to all Wally systems that store, transmit, or process ePHI.
 
 ## 8.3 Audit Requests
 
-1. A request may be made for an audit for a specific cause. The request may come from a variety of sources including, but not limited to, Privacy Officer, Security Officer, Customer, Partner, or application user.
+1. A request may be made for an audit for a specific cause. The request may come from a variety of sources including, but not limited to, Privacy Officer, Security Officer, Customer, or application user.
 2. A request for an audit for specific cause must include time frame, frequency, and nature of the request. The request must be reviewed and approved by Wally's Privacy or Security Officer.
 3. A request for an audit must be approved by Wally's Privacy Officer and/or Security Officer before proceeding. Under no circumstances shall detailed audit information be shared with parties without proper permissions and access to see such data.
    * Should the audit disclose that a workforce member has accessed ePHI inappropriately, the minimum necessary/least privileged information shall be shared with Wally's Security Officer to determine appropriate sanction/corrective disciplinary action.
-   * Only de-identified information shall be shared with Customer or Partner regarding the results of the investigative audit process. This information will be communicated to the appropriate personnel by Wally's Privacy Officer or designee. Prior to communicating with customers and partners regarding an audit, it is recommended that Wally consider seeking risk management and/or legal counsel.
+   * Only de-identified information shall be shared with Customer regarding the results of the investigative audit process. This information will be communicated to the appropriate personnel by Wally's Privacy Officer or designee. Prior to communicating with customers and partners regarding an audit, it is recommended that Wally consider seeking risk management and/or legal counsel.
 
 ## 8.4 Review and Reporting of Audit Findings
 
@@ -82,19 +82,19 @@ This policy applies to all Wally systems that store, transmit, or process ePHI.
   3. Relevant audit log findings are added to the ticket; these findings are investigated in a later step.
   4. Once the review is completed, the Security Officer approves or rejects the ticket. Relevant findings are reviewed at this stage. If the ticket is rejected, it goes back for further review and documentation. The communications protocol around specific findings are outlined below.
   5. If the ticket is approved, the Security Officer then marks the ticket as Done, adding any pertinent notes required.
-2. The reporting process shall allow for meaningful communication of the audit findings to those workforce members, Customers, or Partners requesting the audit.
+2. The reporting process shall allow for meaningful communication of the audit findings to those workforce members or Customers requesting the audit.
    * Significant findings shall be reported immediately in a written format. Wally's security incident response form may be utilized to report a single event.
    * Routine findings shall be reported to the sponsoring leadership structure in a written report format.
 3. Reports of audit results shall be limited to internal use on a minimum necessary/need-to-know basis. Audit results shall not be disclosed externally without administrative and/or legal counsel approval.
 4. Security audits constitute an internal, confidential monitoring practice that may be included in Wally's performance improvement activities and reporting. Care shall be taken to ensure that the results of the audits are disclosed to administrative level oversight structures only and that information which may further expose organizational risk is shared with extreme caution. Generic security audit information may be included in organizational reports (individually-identifiable ePHI shall not be included in the reports).
-5. Whenever indicated through evaluation and reporting, appropriate corrective actions must be undertaken. These actions shall be documented and shared with the responsible workforce members, Customers, and/or Partners.
+5. Whenever indicated through evaluation and reporting, appropriate corrective actions must be undertaken. These actions shall be documented and shared with the responsible workforce members and/or Customers.
 6. Log review activity is monitored on a quarterly basis using the QMS reporting to assess compliance with above policy.
 
-## 8.5 Auditing Customer and Partner Activity
+## 8.5 Auditing Customer Activity
 
-1. Periodic monitoring of Customer and Partner activity shall be carried out to ensure that access and activity is appropriate for privileges granted and necessary to the arrangement between Wally and the 3rd party. Wally will make every effort to assure Customers and Partners do not gain access to data outside of their own domains.
-2. If it is determined that the Customer or Partner has exceeded the scope of access privileges, Wally's leadership must remedy the problem immediately.
-3. If it is determined that a Customer or Partner has violated the terms of the HIPAA business associate agreement or any terms within the HIPAA regulations, Wally must take immediate action to remediate the situation. Continued violations may result in discontinuation of the business relationship.
+1. Periodic monitoring of Customer activity shall be carried out to ensure that access and activity is appropriate for privileges granted and necessary to the arrangement between Wally and the 3rd party. Wally will make every effort to assure Customers do not gain access to data outside of their own domains.
+2. If it is determined that the Customer has exceeded the scope of access privileges, Wally's leadership must remedy the problem immediately.
+3. If it is determined that a Customer has violated the terms of the HIPAA business associate agreement or any terms within the HIPAA regulations, Wally must take immediate action to remediate the situation. Continued violations may result in discontinuation of the business relationship.
 
 ## 8.6 Audit Log Security Controls and Backup
 

@@ -117,7 +117,7 @@ Recovery Goal: The goal is to rebuild Wally infrastructure to a production state
 
 The tasks outlines below are not sequential and some can be run in parallel.
 
-1. Contact Partners and Customers affected
+1. Contact Customers affected
 2. Assess damage to the environment
 3. Begin replication of new environment using automated and tested scripts
 4. Test new environment using pre-written tests

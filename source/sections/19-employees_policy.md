@@ -24,7 +24,7 @@ Wally is committed to ensuring all workforce members actively address security a
 2. All workforce members are granted access to formal organizational policies, which include the sanction policy for security violations.
 3. Wally does not allow mobile devices to connect to any of its production networks.
 4. All workforce members are educated about the approved set of tools to be installed on workstations.
-5. All new workforce members are given HIPAA training within 30 days of beginning employment. Training includes HIPAA reporting requirements, including the ability to anonymously report security incidents, and the levels of compliance and obligations for Wally and its Customers and Partners.
+5. All new workforce members are given HIPAA training within 30 days of beginning employment. Training includes HIPAA reporting requirements, including the ability to anonymously report security incidents, and the levels of compliance and obligations for Wally and its Customers.
 6. All remote (teleworking) workforce members are trained on the risks, the controls implemented, their responsibilities, and sanctions associated with violation of policies. Additionally, remote security is maintained through the use of VPN tunnels for all access to production systems with access to ePHI data.
 7. Employees may only use Wally-purchased and -owned workstations for accessing production systems with access to ePHI data.
    * Any workstations used to access production systems must be configured as prescribed in [§7.8](#7.8-employee-workstation-use).

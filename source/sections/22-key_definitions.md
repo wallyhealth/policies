@@ -67,8 +67,6 @@
 
 * *Organization*: For the purposes of this policy, the term "organization" shall mean Wally.
 
-* *Partner*: Contractual bound 3rd party vendor with integration with the Wally Platform. May offer Add-on services.
-
 * *Platform*: The overall technical environment of Wally.
 
 * *Protected Health Information (PHI)*: Individually identifiable health information that is created by or received by the organization, including demographic information, that identifies an individual, or provides a reasonable basis to believe the information can be used to identify an individual, and relates to:
