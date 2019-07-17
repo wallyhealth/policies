@@ -28,6 +28,7 @@ Each policy is included as its own markdown file in case you want to cherry-pick
 * [Key Definitions](source/sections/22-key_definitions.md)
 * [Wally HIPAA Business Associate Agreement (“BAA”)](source/sections/23-wally_hipaa_business_associate_agreement.md)
 * [HIPAA Mappings to Wally Controls](source/sections/24-hipaa_mapping_to_wally_controls.md)
+* [Attribution](source/sections/25-attribution.md)
 
 ### How to build the docs
 
@@ -43,7 +44,3 @@ Each policy is included as its own markdown file in case you want to cherry-pick
 ### License
 
 All policies are licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
-
-### Attribution
-
-These policies were originally derived from [Datica HIPAA Compliance Policies](https://github.com/catalyzeio/policies).
