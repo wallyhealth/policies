@@ -116,7 +116,6 @@ All workstations at Wally are company owned, and all are laptop Apple products r
 6. Users may not misrepresent, obscure, suppress, or replace another user's identity in transmitted or stored messages.
 7. Workstation hard drives will be encrypted using FileVault 2.0 or equivalent.
 8. All workstations have firewalls enabled to prevent unauthorized access unless explicitly granted.
-9. All workstations are to have the following messages added to the lock screen and login screen: *This computer is owned by Wally Health, Inc. By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, the compliance policies.*
 
 ## 7.9 Wireless Access Use
 
