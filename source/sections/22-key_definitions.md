@@ -92,8 +92,6 @@
 
 * *Risk*: The likelihood that a threat will exploit a vulnerability, and the impact of that event on the confidentiality, availability, and integrity of ePHI, other confidential or proprietary electronic information, and other system assets.
 
-* *Risk Management Team*: Individuals who are knowledgeable about the Organization's HIPAA Privacy, Security and HITECH policies, procedures, training program, computer system set up, and technical security controls, and who are responsible for the risk management process and procedures outlined below.
-
 * *Risk Assessment*: (Referred to as Risk Analysis in the HIPAA Security Rule); the process:
   * Identifies the risks to information system security and determines the probability of occurrence and the resulting impact for each threat/vulnerability pair identified given the security controls in place;
   * Prioritizes risks; and

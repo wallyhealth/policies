@@ -32,7 +32,7 @@ This policy establishes the scope, objectives, and procedures of Wally's informa
    4. Ensure compliance by all workforce members.
 4. Any risk remaining (residual) after other risk controls have been applied, requires sign off by the senior management and Wally's Security Officer.
 5. All Wally workforce members are expected to fully cooperate with all persons charged with doing risk management work, including contractors and audit personnel. Any workforce member that violates this policy will be subject to disciplinary action based on the severity of the violation, as outlined in the Wally Roles Policy.
-6. The implementation, execution, and maintenance of the information security risk analysis and risk management process is the responsibility of Wally's Security Officer (or other designated employee), and the identified Risk Management Team.
+6. The implementation, execution, and maintenance of the information security risk analysis and risk management process is the responsibility of Wally's Security Officer (or other designated employee).
 7. All risk management efforts, including decisions made on what controls to put in place as well as those to not put into place, are documented and the documentation is maintained for six years.
 8. The details of the Risk Management Process, including risk assessment, discovery, and mitigation, are outlined in detail below.
   1. The Security Officer or the Privacy Officer initiates the Risk Management Procedures by creating a ticket in the QMS.
@@ -101,7 +101,7 @@ Risk mitigation involves prioritizing, evaluating, and implementing the appropri
   * Output - Documented cost-benefit analysis of either implementing or not implementing each specific control
 
 * Step 4. Select Control(s)
-  * Taking into account the information and results from previous steps, Wally's mission, and other important criteria, the Risk Management Team determines the best control(s) for reducing risks to the information systems and to the confidentiality, integrity, and availability of ePHI. These controls may consist of a mix of administrative, physical, and/or technical safeguards.
+  * Taking into account the information and results from previous steps, Wally's mission, and other important criteria, the Security Officer, or designated employee, determines the best control(s) for reducing risks to the information systems and to the confidentiality, integrity, and availability of ePHI. These controls may consist of a mix of administrative, physical, and/or technical safeguards.
   * Output - Selected control(s)
 
 * Step 5. Assign Responsibility
@@ -124,7 +124,7 @@ Risk mitigation involves prioritizing, evaluating, and implementing the appropri
 
 * Step 7. Implement Selected Controls
   * As controls are implemented, monitor the affected system(s) to verify that the implemented controls continue to meet expectations. Elimination of all risk is not practical. Depending on individual situations, implemented controls may lower a risk level but not completely eliminate the risk.
-  * Continually and consistently communicate expectations to all Risk Management Team members, as well as senior management and other key people throughout the risk mitigation process. Identify when new risks are identified and when controls lower or offset risk rather than eliminate it.
+  * Continually and consistently communicate expectations to senior management and other key people throughout the risk mitigation process. Identify when new risks are identified and when controls lower or offset risk rather than eliminate it.
   * Additional monitoring is especially crucial during times of major environmental changes, organizational or process changes, or major facilities changes.
   * If risk reduction expectations are not met, then repeat all or a part of the risk management process so that additional controls needed to lower risk to an acceptable level can be identified.
   * Output - Residual Risk documentation
@@ -135,7 +135,7 @@ The two principle components of the risk management process - risk assessment an
 
 * Scheduled Basis - an overall risk assessment of Wally's information system infrastructure will be conducted annually. The assessment process should be completed in a timely fashion so that risk mitigation strategies can be determined and included in the corporate budgeting process.
 * Throughout a System's Development Life Cycle - from the time that a need for a new, untested information system configuration and/or application is identified through the time it is disposed of, ongoing assessments of the potential threats to a system and its vulnerabilities should be undertaken as a part of the maintenance of the system.
-* As Needed - the Security Officer (or other designated employee) or Risk Management Team may call for a full or partial risk assessment in response to changes in business strategies, information technology, information sensitivity, threats, legal liabilities, or other significant factors that affect Wally's platform.
+* As Needed - the Security Officer (or other designated employee) may call for a full or partial risk assessment in response to changes in business strategies, information technology, information sensitivity, threats, legal liabilities, or other significant factors that affect Wally's platform.
 
 ## 4.4 Process Documentation
 
