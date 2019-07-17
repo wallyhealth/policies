@@ -2,7 +2,7 @@
 
 Wally works with Subcontractors to assure restriction of physical access to systems used as part of the Wally platform. Wally and its Subcontractors control access to the physical buildings/facilities that house these systems/applications, or in which Wally workforce members operate, in accordance to the HIPAA Security Rule 164.310 and its implementation specifications. Physical Access to all of Wally facilities is limited to only those authorized in this policy. In an effort to safeguard ePHI from unauthorized access, tampering, and theft, access is allowed to areas only to those persons authorized to be in them and with escorts for unauthorized persons. All workforce members are responsible for reporting an incident of unauthorized visitor and/or unauthorized access to Wally's facility.
 
-Of note, Wally does not have ready access to ePHI and does not physically house any systems used by its platform in Wally facilities. Physical security of our platform servers is outlined [in §1.4](#1.4-wally-organizational-concepts).
+Of note, Wally does not have ready access to ePHI and does not physically house any systems used by its platform in Wally facilities. Physical security of our platform servers is outlined [in §1.3](#1.3-wally-organizational-concepts).
 
 ## 10.1 Applicable Standards
 

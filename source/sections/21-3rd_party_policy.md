@@ -27,7 +27,7 @@ Wally makes every effort to assure all 3rd party organizations are compliant and
 5. No Wally Customers have access outside of their own environment, meaning they cannot access, modify, or delete anything related to other 3rd parties.
 6. Wally does not outsource software development.
 7. Wally maintains and annually reviews a list all current Subcontractors.
-   * The list of current Subcontractors is maintained by the Wally Privacy Officer, includes details on all provided services (along with contact information), and is recorded in [§1.4](#1.4-wally-organizational-concepts).
+   * The list of current Subcontractors is maintained by the Wally Privacy Officer, includes details on all provided services (along with contact information), and is recorded in [§1.3](#1.3-wally-organizational-concepts).
    * The annual review of Subcontractors is conducted as a part of the security, compliance, and SLA review referenced below.
 8. Wally assesses security, compliance, and SLA requirements and considerations with all Subcontractors. This includes annual assessment of SOC2 reports for all Wally infrastructure partners.
    * Wally leverages recurring calendar invites to assure reviews of all 3rd party services are performed annually. These reviews are performed by the Wally Security Officer and Privacy Officer. The process for reviewing 3rd party services is outlined below:
