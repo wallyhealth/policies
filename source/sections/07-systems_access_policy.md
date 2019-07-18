@@ -47,7 +47,7 @@ Access to Wally systems and applications is limited for all users, including but
      * For non-production systems, access grants are accomplished by leveraging the access control mechanisms built into those systems. Account management for non-production systems may be delegated to a Wally employee at the discretion of the Security Officer or Privacy Officer.
 2. Access is not granted until receipt, review, and approval by the Wally Security Officer or Privacy Officer.
 3. The request for access is retained for future reference.
-4. All access to Wally systems and services is reviewed and updated on a bi-annual basis to ensure proper authorizations are in place commensurate with job functions. The process for conducting reviews is outlined below:
+4. All access to Wally systems and services is reviewed and updated on a quarterly basis to ensure proper authorizations are in place commensurate with job functions. The process for conducting reviews is outlined below:
    1. The Security Officer initiates the review of user access by creating a ticket in the QMS.
    2. The Security Officer is assigned to review levels of access for each Wally workforce member.
    3. If user access is found during review that is not in line with the least privilege principle, the process below is used to modify user access and notify the user of access changes.
