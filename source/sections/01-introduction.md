@@ -18,7 +18,7 @@ Mappings of HIPAA Rules to Wally controls and a mapping of what Rules are inheri
 
 The physical infrastructure environment is hosted at [Google Cloud Platform](https://cloud.google.com/) (GCP). The network components and supporting network infrastructure are contained within GCP and managed by GCP. Wally does not have physical access into the network components.
 
-Within the Wally Platform on GCP, all data transmission is encrypted and all hard drives are encrypted so data at rest is also encrypted; this applies to all servers - those hosting Docker containers, databases, etc. Wally assumes all data *may* contain ePHI, even though our Risk Assessment does not indicate this is the case, and provides appropriate protections based on that assumption.
+Within the Wally Platform on GCP, all data transmission is encrypted and all hard drives are encrypted so data at rest is also encrypted; this applies to all servers - those hosting Docker containers, databases, etc. Wally assumes all data *may* contain ePHI, even though our Risk Assessment does not indicate this is the case, and provides appropriate protections based on that assumption. The encryption standards are maintained in line with NIST best practices.
 
 The data and network segmentation in GCP is achieved by using a dedicated Virtual Private Cloud (VPC). The segmentation strategies employed by Wally effectively create RFC 1918, or dedicated, private segmented and separated network and IP spaces.
 
