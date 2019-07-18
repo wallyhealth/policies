@@ -27,20 +27,21 @@ This policy establishes the scope, objectives, and procedures of Wally's informa
    4. Wally performs periodic technical and non-technical assessments of the security rule requirements as well as in response to environmental or operational changes affecting the security of ePHI.
 3. Wally implements security measures sufficient to reduce risks and vulnerabilities to a reasonable and appropriate level to:
    1. Ensure the confidentiality, integrity, and availability of all ePHI Wally receives, maintains, processes, and/or transmits for its Customers;
-   2. Protect against any reasonably anticipated threats or hazards to the security or integrity of Customer ePHI;
-   3. Protect against any reasonably anticipated uses or disclosures of Customer ePHI that are not permitted or required; and
-   4. Ensure compliance by all workforce members.
-4. Any risk remaining (residual) after other risk controls have been applied, requires sign off by the senior management and Wally's Security Officer.
-5. All Wally workforce members are expected to fully cooperate with all persons charged with doing risk management work, including contractors and audit personnel. Any workforce member that violates this policy will be subject to disciplinary action based on the severity of the violation, as outlined in the Wally Roles Policy.
-6. The implementation, execution, and maintenance of the information security risk analysis and risk management process is the responsibility of Wally's Security Officer (or other designated employee).
-7. All risk management efforts, including decisions made on what controls to put in place as well as those to not put into place, are documented and the documentation is maintained for six years.
-8. The details of the Risk Management Process, including risk assessment, discovery, and mitigation, are outlined in detail below.
+   2. Ensure compliance by all workforce members and vendors that come in contact with Customer ePHI.
+4. Wally implements industry standards and compliant practices to protect against:
+   1. Any reasonably anticipated threats or hazards to the security or integrity of Customer ePHI;
+   2. Any reasonably anticipated uses or disclosures of Customer ePHI that are not permitted or required.
+5. Any risk remaining (residual) after other risk controls have been applied, requires sign off as defined in [§4.3.4 Risk Acceptance](#4.3.4-risk-acceptance).
+6. All Wally workforce members are expected to fully cooperate with all persons charged with doing risk management work, including contractors and audit personnel. Any workforce member that violates this policy will be subject to disciplinary action based on the severity of the violation, as outlined in the Wally Roles Policy.
+7. The implementation, execution, and maintenance of the information security risk analysis and risk management process is the responsibility of Wally's Security Officer (or other designated employee).
+8. All risk management efforts, including decisions made on what controls to put in place as well as those to not put into place, are documented and the documentation is maintained for six years.
+9. The details of the Risk Management Process, including risk assessment, discovery, and mitigation, are outlined in detail below.
   1. The Security Officer or the Privacy Officer initiates the Risk Management Procedures by creating a ticket in the QMS.
   2. The Security Officer or the Privacy Officer is assigned to carry out the Risk Management Procedures.
   3. All findings are captured in an approved document that is linked to the ticket.
   4. Once the Risk Management Procedures are complete, along with corresponding documentation, the Security Officer approves or rejects the ticket. If the ticket is rejected, it goes back for further review and documentation.
   5. If the review is approved, the Security Officer then marks the ticket as Done, adding any pertinent notes required.
-9. The Risk Management Procedure is monitored on a quarterly basis using the QMS reporting to assess compliance with above policy.
+10. The Risk Management Procedure is monitored on a quarterly basis using the QMS reporting to assess compliance with above policy.
 
 ## 4.3 Risk Management Procedures
 
@@ -127,7 +128,7 @@ Risk mitigation involves prioritizing, evaluating, and implementing the appropri
   * Continually and consistently communicate expectations to senior management and other key people throughout the risk mitigation process. Identify when new risks are identified and when controls lower or offset risk rather than eliminate it.
   * Additional monitoring is especially crucial during times of major environmental changes, organizational or process changes, or major facilities changes.
   * If risk reduction expectations are not met, then repeat all or a part of the risk management process so that additional controls needed to lower risk to an acceptable level can be identified.
-  * Output - Residual Risk documentation
+  * Output - Residual Risk is captured as defined in [§4.3.4 Risk Acceptance](#4.3.4-risk-acceptance).
 
 ### 4.3.3 Risk Management Schedule
 
@@ -136,6 +137,13 @@ The two principle components of the risk management process - risk assessment an
 * Scheduled Basis - an overall risk assessment of Wally's information system infrastructure will be conducted annually. The assessment process should be completed in a timely fashion so that risk mitigation strategies can be determined and included in the corporate budgeting process.
 * Throughout a System's Development Life Cycle - from the time that a need for a new, untested information system configuration and/or application is identified through the time it is disposed of, ongoing assessments of the potential threats to a system and its vulnerabilities should be undertaken as a part of the maintenance of the system.
 * As Needed - the Security Officer (or other designated employee) may call for a full or partial risk assessment in response to changes in business strategies, information technology, information sensitivity, threats, legal liabilities, or other significant factors that affect Wally's platform.
+
+### 4.3.4 Risk Acceptance
+
+Once accepted, Residual Risks are considered as risks that the management of the organization knowingly takes. As such, they should be:
+* Documented in the Wally QMS;
+* Approved by the senior management or Wally's Security Officer;
+* Assessed on a weekly basis until they are eliminated.
 
 ## 4.4 Process Documentation
 
