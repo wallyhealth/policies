@@ -141,6 +141,7 @@ The two principle components of the risk management process - risk assessment an
 ### 4.3.4 Risk Acceptance
 
 Once accepted, Residual Risks are considered as risks that the management of the organization knowingly takes. As such, they should be:
+
 * Documented in the Wally QMS;
 * Approved by the senior management or Wally's Security Officer;
 * Assessed on a weekly basis until they are eliminated.
